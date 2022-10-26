@@ -1,0 +1,28 @@
+{
+  "name": "interviews",
+  "version": "1.0.0",
+  "description": "Code for interview simulations",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masterschool-Web/interviews.git"
+  },
+  "author": "Oleg Glybchenko (oleg@masterschool.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masterschool-Web/interviews/issues"
+  },
+  "homepage": "https://github.com/Masterschool-Web/interviews#readme",
+  "devDependencies": {
+    "@types/jest": "^29.2.0",
+    "@types/node": "^18.11.5",
+    "jest": "^29.2.0"
+  },
+  "engines" : {
+    "npm" : ">=7.0.0",
+    "node" : ">=16.0.0"
+  }
+}
