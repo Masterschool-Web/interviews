@@ -1,3 +1,4 @@
+# Task & Objectives
 You are probably familiar with the `dispatch` command from the React Redux library. You are going to implement something similar.
 In Redux the `dispatch` command is used to send actions with payload to mutate the store. In this exercise, instead of the actual store
 you have a `listenersMap`which collects events via `addEventListener` method and the `dispatch` method
